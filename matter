@@ -1,0 +1,5 @@
+# Automatic-email-machine
+An email bot is an automated marketing tool that can respond quickly to incoming email leads.
+in this code we used python packages such as :
+The smtplib module defines an SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listener daemon.and TLS transport layer security.
+an email bot delivers customized email responces.
